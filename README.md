@@ -1,5 +1,20 @@
 # Recipe Box
 
+# Objectives
+
+[x] Get express server running
+
+[x] If you click on one of the recipes in the list of recipes on the home page, it will direct you to that recipe's Detail Page.
+
+[x] Click on ADD A RECIPE button on the Navigation Bar to direct you to the New Recipe Form page.
+
+[x] After creating a new recipe, you will be directed to the Recipe Edit page where you can add instructions and ingredients to a recipe. 
+
+[x] Allow users to find recipes by a part of their name using the Search Bar in the Navigation Bar.
+
+
+
+
 In this project, you will build the Data Access Layer to power a Web
 application. This means that you will provide all of the SQL that it takes to
 get data into and from the database. You will do this in SQL files that the
